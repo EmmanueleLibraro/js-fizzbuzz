@@ -10,3 +10,13 @@ for (var i = 0; i < 100; i++){
 for (var i = 0; i < numeri.length; i++){
     console.log(numeri[i]);
 }
+
+var prova = [];
+
+for( var value = 1; value <= 100; value++){
+    prova.push(value);
+}
+
+for( var i = 0; i <= prova.length; i++){
+    console.log(prova[i]);
+}
